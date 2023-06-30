@@ -24,12 +24,6 @@
         <a href="https://www.javascript.com/">
             <img src="https://skillicons.dev/icons?i=js"/>
         </a>
-        <a href="https://nodejs.org/en">
-            <img src="https://skillicons.dev/icons?i=nodejs"/>
-        </a>
-        <a href="https://reactjs.org/">
-            <img src="https://skillicons.dev/icons?i=react"/>
-        </a>
         <a href="https://html.com/">
             <img src="https://skillicons.dev/icons?i=html"/>
         </a>
@@ -39,11 +33,32 @@
         <a href='https://styled-components.com/'>
             <img src="https://skillicons.dev/icons?i=styledcomponents"/>
         </a>
+        <a href="https://reactjs.org/">
+            <img src="https://skillicons.dev/icons?i=react"/>
+        </a>
+        <br>
+        <a href="https://nodejs.org/en">
+            <img src="https://skillicons.dev/icons?i=nodejs"/>
+        </a>
+        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+            <img src="https://skillicons.dev/icons?i=cs"/>
+        </a>
+        <br>
         <a href='https://git-scm.com/'>
             <img src="https://skillicons.dev/icons?i=git"/>
         </a>
          <a href='https://github.com'>
             <img src="https://skillicons.dev/icons?i=github"/>
+        </a>
+        <a href='https://code.visualstudio.com'>
+            <img src="https://skillicons.dev/icons?i=vscode"/>
+        </a>
+        <br>
+        <a href='https://www.mysql.com'>
+            <img src="https://skillicons.dev/icons?i=mysql"/>
+        </a>
+         <a href='https://www.mongodb.com'>
+            <img src="https://skillicons.dev/icons?i=mongodb"/>
         </a>
     </p>
 </div>
