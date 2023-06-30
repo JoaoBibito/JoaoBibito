@@ -80,7 +80,7 @@
 <p align="left">
  
  <a href="https://www.linkedin.com/in/joao-vitor-05aa38141/" target="_blank" alt="Linkedin">
-  <img width="140px" src="https://img.shields.io/badge/-Linkedin-rgb(26, 41, 82)?style=for-the-badge&logo=Linkedin&logoColor=rgb(150, 118, 228)&link=https://www.linkedin.com/in/evander-inacio"/> 
+  <img width="140px" src="https://img.shields.io/badge/-Linkedin-rgb(26, 41, 82)?style=for-the-badge&logo=Linkedin&logoColor=rgb(193,201,200)&link=https://www.linkedin.com/in/evander-inacio"/> 
  </a>
 </p>
 
