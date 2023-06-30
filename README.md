@@ -40,12 +40,14 @@
             <img src="https://skillicons.dev/icons?i=vite"/>
         </a>
         <br>
+        <br>
         <a href="https://nodejs.org/en">
             <img src="https://skillicons.dev/icons?i=nodejs"/>
         </a>
         <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
             <img src="https://skillicons.dev/icons?i=cs"/>
         </a>
+        <br>
         <br>
         <a href='https://git-scm.com/'>
             <img src="https://skillicons.dev/icons?i=git"/>
@@ -59,6 +61,7 @@
         <a href='https://www.postman.com'>
             <img src="https://skillicons.dev/icons?i=postman"/>
         </a>
+        <br>
         <br>
         <a href='https://www.mysql.com'>
             <img src="https://skillicons.dev/icons?i=mysql"/>
