@@ -1,5 +1,5 @@
 <img src="images/illustration-computer.png" min-width="300px" max-width="450px" width="350px" align="right" alt="ComputadorImg">
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Vitor</h1>
+<h1 align="left">Hi <img src="/images/World.gif?raw=true" width="30">, I'm João Vitor</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoBibito&color=red" alt="Profile views" /> </p>
 
