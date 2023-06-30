@@ -4,11 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoBibito&color=red" alt="Profile views" /> </p>
 
 <br>
-## &nbsp; <img src="images/HappyFace.gif " width="30" align="center"> &nbsp;About me
+    ## &nbsp; <img src="images/HappyFace.gif " width="30" align="center"> &nbsp;About me
+
 - 👨🏽‍🎓 I'm graduated in **Systems Analysis and Development.**;
+
 - 💻 I'm Javascript Developer.;
+
 - 📫 If you want to send a message to me. **joao-vitor1903@live.com**;
+
 - 🚀 My portfolio **[ joao.vercel.app](https://jb-portfolio-joaobibito.vercel.app)**;
+
 
 <br>
 🛠 &nbsp;Tech Stack
