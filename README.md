@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoBibito&color=red" alt="Profile views" /> </p>
 
 😎 &nbsp; About me
-👨🏽‍🎓 I'm graduated in **Systems Analysis and Development.**;
-💻 I'm Javascript Developer;
-📫 If you want to send a message to me. **joao-vitor1903@live.com**
-🚀 My portfolio **[ joao.vercel.app](https://jb-portfolio-joaobibito.vercel.app)**;
+-👨🏽‍🎓 I'm graduated in **Systems Analysis and Development.**;
+-💻 I'm Javascript Developer;
+-📫 If you want to send a message to me. **joao-vitor1903@live.com**
+-🚀 My portfolio **[ joao.vercel.app](https://jb-portfolio-joaobibito.vercel.app)**;
 
 
 🛠 &nbsp;Tech Stack
