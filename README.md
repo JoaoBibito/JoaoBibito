@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoBibito&color=red" alt="Profile views" /> </p>
 
 <br>
-    ## &nbsp; <img src="images/HappyFace.gif " width="30" align="center"> &nbsp;About me
+     &nbsp; <img src="images/HappyFace.gif " width="30" align="center">  &nbsp; About me
 
 - 👨🏽‍🎓 I'm graduated in **Systems Analysis and Development.**;
 
