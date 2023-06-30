@@ -79,7 +79,7 @@
 
 <p align="left">
  
- <a href="https://www.linkedin.com/in/joao-vitor-05aa38141/" alt="Linkedin">
+ <a href="https://www.linkedin.com/in/joao-vitor-05aa38141/" target="_blank" alt="Linkedin">
   <img width="140px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(150, 118, 228)&link=https://www.linkedin.com/in/evander-inacio"/> 
  </a>
 </p>
