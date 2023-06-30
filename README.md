@@ -55,6 +55,9 @@
          <a href='https://github.com'>
             <img src="https://skillicons.dev/icons?i=github"/>
         </a>
+         <a href='https://visualstudio.microsoft.com/pt-br/'>
+            <img src="https://skillicons.dev/icons?i=visualstudio"/>
+        </a>
         <a href='https://code.visualstudio.com'>
             <img src="https://skillicons.dev/icons?i=vscode"/>
         </a>
