@@ -101,6 +101,8 @@
 <br>
 <br>
 
+
+## <img src="images/gato.gif" width="50" align="center"> &nbsp;My Commits
 ![snake gif](https://github.com/JoaoBibito/JoaoBibito/blob/output/github-contribution-grid-snake.svg)
 
 <!--
