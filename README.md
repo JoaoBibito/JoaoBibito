@@ -100,6 +100,7 @@
 </div>
 <br>
 <br>
+
 ![snake gif](https://github.com/JoaoBibito/JoaoBibito/blob/output/github-contribution-grid-snake.svg)
 
 <!--
