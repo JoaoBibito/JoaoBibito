@@ -36,6 +36,9 @@
         <a href="https://reactjs.org/">
             <img src="https://skillicons.dev/icons?i=react"/>
         </a>
+        <a href="https://vitejs.dev">
+            <img src="https://skillicons.dev/icons?i=vite"/>
+        </a>
         <br>
         <a href="https://nodejs.org/en">
             <img src="https://skillicons.dev/icons?i=nodejs"/>
@@ -52,6 +55,9 @@
         </a>
         <a href='https://code.visualstudio.com'>
             <img src="https://skillicons.dev/icons?i=vscode"/>
+        </a>
+        <a href='https://www.postman.com'>
+            <img src="https://skillicons.dev/icons?i=postman"/>
         </a>
         <br>
         <a href='https://www.mysql.com'>
