@@ -11,7 +11,7 @@
 
 - 💻 I'm Javascript Developer.;
 
-- 📫 If you want to send a message to me. **joao-vitor1903@live.com**;
+- 📫 If you want to send a message. **joao-vitor1903@live.com**;
 
 - 🚀 My portfolio **[ joao.vercel.app](https://jb-portfolio-joaobibito.vercel.app)**;
 
