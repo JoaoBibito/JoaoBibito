@@ -95,8 +95,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-<img height='180em'src="https://github-readme-stats.vercel.app/api?username=JoaoBibito&show_icons=true&theme=dark" alt="JoaoBibito's stats"/>
-<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBibito&layout=compact&theme=dark" alt="JoaoBibito's most languages"/>
+<img height='180em'src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoBibito&show_icons=true&theme=dark" alt="JoaoBibito's stats"/>
+<img height='180em' src="https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=JoaoBibito&layout=compact&theme=dark" alt="JoaoBibito's most languages"/>
 </div>
 <br>
 <br>
