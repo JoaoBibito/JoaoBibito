@@ -77,7 +77,7 @@
 <br>
 <br>
 
-## 👨🏽‍💼 &nbsp;Connecct with me 
+## 👨🏽‍💼 &nbsp;Connect with me 
 
 <p align="left">
  
